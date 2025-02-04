@@ -10,7 +10,7 @@ from inference_sdk import InferenceHTTPClient  # Import your inference SDK
 # Create an inference client
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="qYfOeMQw17H4HofDgcFi"  # Replace with your actual API key
+    api_key=""  # Replace with your actual API key
 )
 
 # Paths and settings
