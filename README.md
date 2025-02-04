@@ -56,5 +56,5 @@ This project demonstrates the power of object detection for tracking people in a
 In the future, we can **advance and deploy our model to work with CCTV footage**, allowing real-time monitoring of retail stores.
 
 ## Watch the Complete Video  
-🔗 **[Click here to watch the full video](YOUR_VIDEO_LINK_HERE)**  
+🔗 **[Click here to watch the full video](https://www.dropbox.com/scl/fi/sttnhv8tnn3p7mjth57yn/processed_downloaded_video.mp4?rlkey=c1igct9ay75h5o3u0ls6l5mtj&st=vrhq7anm&dl=0)**  
 
