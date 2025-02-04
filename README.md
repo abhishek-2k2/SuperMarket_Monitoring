@@ -26,10 +26,17 @@ Lines are drawn on the video frame to separate different store sections. When a 
 ### 5. Video Output
 The processed video is saved with visual annotations, including bounding boxes and section labels. This output helps analyze customer movement within the store.
 
-## Screenshot  
-Here’s a preview of the system in action:  
+## Video Snapshots  
 
-![Project Screenshot](Screenshot%202025-02-04%20105401.png)
+### **Before Detection**
+The raw video frame before object detection is applied:
+
+![Before Detection](Screenshot%202025-02-04%20110205.png)
+
+### **After Detection**
+The processed video frame after object detection and tracking:
+
+![After Detection](Screenshot%202025-02-04%20105401.png)
 
 ## Technologies Used
 
@@ -45,4 +52,9 @@ Here’s a preview of the system in action:
 3. Run the script to process the video and generate results.
 
 ## Conclusion
-This project demonstrates the power of object detection for tracking people in a retail store. By using Roboflow for model training and OpenCV for processing, we achieve an efficient system for analyzing customer behavior.
+This project demonstrates the power of object detection for tracking people in a retail store. By using Roboflow for model training and OpenCV for processing, we achieve an efficient system for analyzing customer behavior.  
+In the future, we can **advance and deploy our model to work with CCTV footage**, allowing real-time monitoring of retail stores.
+
+## Watch the Complete Video  
+🔗 **[Click here to watch the full video](YOUR_VIDEO_LINK_HERE)**  
+
