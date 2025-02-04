@@ -1,4 +1,4 @@
-# Supermarket monitoring system
+# Supermarket Monitoring System
 
 This project focuses on object detection using computer vision to track people in a retail store environment. The system identifies individuals moving within different sections of the store and calculates the time spent in each area.
 
@@ -25,6 +25,11 @@ Lines are drawn on the video frame to separate different store sections. When a 
 
 ### 5. Video Output
 The processed video is saved with visual annotations, including bounding boxes and section labels. This output helps analyze customer movement within the store.
+
+## Screenshot  
+Here’s a preview of the system in action:  
+
+![Project Screenshot](Screenshot%202025-02-04%20105401.png)
 
 ## Technologies Used
 
